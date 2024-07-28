@@ -1,5 +1,5 @@
 # Langchain Gemini
-https://www.youtube.com/watch?v=vxF8-ay9Bzk with modification by 
+https://www.youtube.com/watch?v=vxF8-ay9Bzk with modified by [github](https://github.com/araujobma/LangchainGeminiMultimodalMongoDB)
 
 ## Agenda
 1. The LangChain Project
